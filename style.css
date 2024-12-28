@@ -1,1 +1,10 @@
+@charset "UTF-8";
+
+body{
+  color: red; fontsize: 20px;
+}
+
+div1{
+  color: #333333; fontsize: 40px;
+}
 
