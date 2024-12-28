@@ -20,10 +20,10 @@ th {
 }
 
 body{
-  color: red; fontsize: 20px;
+  color: black; fontsize: 20px;
 }
 
 header{
-  background-color: #333333; fontsize: 40px;
+  background-color: #333333; color: white; fontsize: 40px;
 }
 
