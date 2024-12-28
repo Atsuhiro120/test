@@ -1,10 +1,5 @@
 @charset "UTF-8";
 
-body {
-      font-family: Arial, sans-serif;
-    }
-
-    /* 表のデザイン */
 table {
   width: 60%;
   margin: 20px auto;
