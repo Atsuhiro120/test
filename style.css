@@ -1,12 +1,12 @@
 @charset "UTF-8";
 
-table1, table2 {
+table {
   width: 60%;
   margin: 20px auto;
   border-collapse: collapse;
 }
 
-table1, table2, th, td {
+table, th, td {
   border: 1px solid #000;
 }
 
