@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+h2　{
+  font-family: "游ゴシック体", "Yu Gothic", cursive;
+}
+
 table {
   width: 100%;
   margin: 20px;
