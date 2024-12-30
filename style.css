@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 table {
-  width: 80%;
+  width: 800px;
   margin: 20px auto;
   border-collapse: collapse;
 }
@@ -27,13 +27,15 @@ header{
   background-color: #333333; color: white; fontsize: 40px;
 }
 
-.scroll1{
-  overflow: auto;
-  white-space: pre;
+.table1{
+  width: 100%; /* コンテナの幅 */
+  overflow-x: auto; /* 横スクロール許可 */
+  white-space: nowrap; /* 折り返し防止 */
 }
 
-.scroll2{
-  overflow: auto;
-  white-space: pre;
+.table2{
+  width: 100%; /* コンテナの幅 */
+  overflow-x: auto; /* 横スクロール許可 */
+  white-space: nowrap; /* 折り返し防止 */
 }
 
