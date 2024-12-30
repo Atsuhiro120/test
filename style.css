@@ -27,7 +27,12 @@ header{
   background-color: #333333; color: white; fontsize: 40px;
 }
 
-.scroll{
+.scroll1{
+  overflow: auto;
+  white-space: pre;
+}
+
+.scroll2{
   overflow: auto;
   white-space: pre;
 }
