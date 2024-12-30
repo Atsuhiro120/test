@@ -2,7 +2,7 @@
 
 table {
   width: 800px;
-  margin: 20px auto;
+  margin: 20px;
   border-collapse: collapse;
 }
 
@@ -24,7 +24,10 @@ body{
 }
 
 header{
-  background-color: #333333; color: white; fontsize: 40px;
+  background-color: #333333;
+  color: white;
+  fontsize: 40px;
+  padding: 10px;
 }
 
 .table1{
