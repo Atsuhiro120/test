@@ -1,7 +1,10 @@
 @charset "UTF-8";
 
 h2　{
-  font-family: "Noto Sans JP", serif;;
+  font-family: "Noto Sans JP", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
 
 table {
