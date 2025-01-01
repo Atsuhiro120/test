@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 h2　{
-  font-family: "游ゴシック体", "Yu Gothic", YuGothic, sans-serif;
+  font-family: "Noto Sans JP", serif;;
 }
 
 table {
@@ -51,3 +51,9 @@ header{
   white-space: nowrap; /* 折り返し防止 */
 }
 
+.noto-sans-jp-<uniquifier> {
+  font-family: "Noto Sans JP", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
