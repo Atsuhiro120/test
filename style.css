@@ -60,3 +60,19 @@ header{
   font-weight: <weight>;
   font-style: normal;
 }
+
+.menu{
+  display: flex;
+  justify-content: center;
+  gap: 2.5rem;
+  font-size: 1.5rem;
+  list-style: none;
+}
+
+.menu a{
+  color: #432;
+}
+
+.menu a: hover{
+  color: #0bd;
+}
