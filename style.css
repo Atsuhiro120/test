@@ -78,5 +78,7 @@ header{
 }
 
 .logo{
-  justify-content: center;
+  width: 210px;
+  height: auto;
+  text-align: center;
 }
