@@ -31,8 +31,8 @@ header{
   display: flex;
   height: 60px;
   width: 60px;
-  justify-content: center;
-  align-items: center;
+  justify-content: right;
+  align-items: right;
   position: relative;
   z-index: 100;/* 重なり順を一番上にする */
   cursor: pointer;
@@ -86,7 +86,8 @@ header{
   top: 0;
   left: 100%; /* メニューを画面の外に飛ばす */
   z-index: 99;
-  background: #fff;
+  background: black;
+  color: white;
   transition: .5s;
 }
 
