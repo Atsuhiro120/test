@@ -10,6 +10,7 @@ body{
 }
 
 .p2{
+  background-color: #777777;
   width: 100%;
   height: auto;
 }
@@ -22,6 +23,7 @@ p2 {
 }
 
 .p3{
+  background-color: #777777;
   width: 100%;
   height: auto;
 }
@@ -206,6 +208,10 @@ tr:nth-child(even) {
 
 .menu a: hover{
   color: white;
+}
+
+.reg {
+  background-color: #777777;
 }
 
 .logo{
