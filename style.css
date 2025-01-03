@@ -9,8 +9,14 @@ body{
   font-style: normal;
 }
 
-p2　p3 {
-  font-size: 200px;
+p2 {
+  font-size: 32px;
+  text-align: center;
+}
+
+
+p3 {
+  font-size: 32px;
   text-align: center;
 }
 
