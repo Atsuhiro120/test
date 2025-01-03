@@ -3,13 +3,14 @@
 body{
   background-color: black;
   color: white;
-}
-
-h2　{
   font-family: "Noto Sans JP", serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
+}
+
+p2　p3 {
+  font-size: 200px;
   text-align: center;
 }
 
