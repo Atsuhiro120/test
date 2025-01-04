@@ -59,10 +59,11 @@ header{
 .drawer_open {
   float: right;
   display: flex;
-  height: 60px;
-  width: 60px;
-  justify-content: right;
-  align-items: right;
+  padding: 10px;
+  height: 100px;
+  width: 100px;
+  justify-content: center;
+  align-items: center;
   position: relative;
   z-index: 100;/* 重なり順を一番上にする */
   cursor: pointer;
