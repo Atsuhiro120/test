@@ -190,7 +190,13 @@ tr:nth-child(even) {
 }
 
 .table1{
-  background-color: #777777;
+  background-image: url('stadiummono.png');
+  background-size: cover; /* 画面全体にフィット */
+  background-repeat: no-repeat; /* 繰り返しを防ぐ */
+  background-position: center center; /* 中央揃え */
+  height: 100vh; /* ビューポート全体の高さに設定 */
+  margin: 0; /* 余白なし */
+  
   width: 100%; /* コンテナの幅 */
   overflow-x: auto; /* 横スクロール許可 */
   white-space: nowrap; /* 折り返し防止 */
