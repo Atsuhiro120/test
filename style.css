@@ -190,11 +190,12 @@ tr:nth-child(even) {
 
 .table1{
   background-image: url('stadiummono.png');
-  background-size: cover; /* 画面全体にフィット */
+  background-size: contain; /* 画面全体にフィット */
   background-repeat: no-repeat; /* 繰り返しを防ぐ */
   background-position: center center; /* 中央揃え */
- /* ビューポート全体の高さに設定 */
+  height: 100hv; /* ビューポート全体の高さに設定 */
   margin: 0; /* 余白なし */
+  background-attachment: fixed; /* 背景固定 */
   
   width: 100%; /* コンテナの幅 */
   overflow-x: auto; /* 横スクロール許可 */
