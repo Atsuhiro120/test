@@ -190,7 +190,7 @@ tr:nth-child(even) {
 
 .table1{
   background-image: url('stadiummono.png');
-  background-size: contain; /* 画面全体にフィット */
+  background-size: cover; /* 画面全体にフィット */
   background-repeat: no-repeat; /* 繰り返しを防ぐ */
   background-position: center center; /* 中央揃え */
   height: 100hv; /* ビューポート全体の高さに設定 */
@@ -249,9 +249,11 @@ tr:nth-child(even) {
 
 footer {
   background-color: black;
+  padding: 10px;
 }
 
 .footer{
   color: white;
+  padding: 10px;
   text-align: center;
 }
