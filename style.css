@@ -1,5 +1,4 @@
 @charset "UTF-8";
-@media (max-width: 600px)
 
 body{
   background-color: black;
@@ -190,7 +189,7 @@ tr:nth-child(even) {
 }
 
 .table1{
-  background-image: url('msn_mono.png');
+  background-image: url('enter_mono.png');
   background-size: cover; /* 画面全体にフィット */
   background-repeat: no-repeat; /* 繰り返しを防ぐ */
   background-position: center center; /* 中央揃え */
@@ -203,7 +202,7 @@ tr:nth-child(even) {
 }
 
 .table2{
-  background-image: url('enter_mono.png');
+  background-image: url('msn_mono.png');
   background-size: cover; /* 画面全体にフィット */
   background-repeat: no-repeat; /* 繰り返しを防ぐ */
   background-position: center center; /* 中央揃え */
