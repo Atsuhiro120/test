@@ -193,7 +193,7 @@ tr:nth-child(even) {
   background-size: cover; /* 画面全体にフィット */
   background-repeat: no-repeat; /* 繰り返しを防ぐ */
   background-position: center center; /* 中央揃え */
-  height: 1000px; /* ビューポート全体の高さに設定 */
+  height: 700px; /* ビューポート全体の高さに設定 */
   margin: 0; /* 余白なし */
   background-attachment: fixed; /* 背景固定 */
   width: 100%; /* コンテナの幅 */
@@ -242,7 +242,7 @@ tr:nth-child(even) {
   background-size: cover; /* 画面全体にフィット */
   background-repeat: no-repeat; /* 繰り返しを防ぐ */
   background-position: center center; /* 中央揃え */
-  height: 1000px; /* ビューポート全体の高さに設定 */
+  height: 500px; /* ビューポート全体の高さに設定 */
   margin: 0; /* 余白なし */
   background-attachment: fixed; /* 背景固定 */
 }
