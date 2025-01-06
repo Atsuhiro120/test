@@ -202,7 +202,7 @@ tr:nth-child(even) {
 }
 
 .table2{
-  background-image: url('msn_mono.png');
+  background-image: url('stadiummono.png');
   background-size: cover; /* 画面全体にフィット */
   background-repeat: no-repeat; /* 繰り返しを防ぐ */
   background-position: center center; /* 中央揃え */
@@ -238,7 +238,7 @@ tr:nth-child(even) {
 }
 
 .reg {
-  background-image: url('stadiummono.png');
+  background-image: url('msn_mono.png');
   background-size: cover; /* 画面全体にフィット */
   background-repeat: no-repeat; /* 繰り返しを防ぐ */
   background-position: center center; /* 中央揃え */
