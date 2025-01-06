@@ -195,7 +195,7 @@ tr:nth-child(even) {
   background-position: center center; /* 中央揃え */
   height: 100hv; /* ビューポート全体の高さに設定 */
   margin: 0; /* 余白なし */
-  background-attachment: fixed; /* 背景固定 */
+  /*background-attachment: fixed; *//* 背景固定 */
   
   width: 100%; /* コンテナの幅 */
   overflow-x: auto; /* 横スクロール許可 */
