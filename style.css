@@ -28,7 +28,7 @@ p6 {
 }
 
 .p3{
-  background-color: #bbbbb;
+  background-color: #bbbbbb;
   width: 100%;
   height: auto;
 }
@@ -182,18 +182,12 @@ tr:nth-child(even) {
   background: linear-gradient(45deg, transparent 49%, black 50%, black 51%, transparent 52%);
     }
 
-.catchcopy{
-  background-image: url(images/argentina_inc.jpeg);
-  background-color: white;
-  color: yellow;
-}
-
 .table1{
   background-image: url('enter_mono.png');
   background-size: cover; /* 画面全体にフィット */
   background-repeat: no-repeat; /* 繰り返しを防ぐ */
   background-position: center center; /* 中央揃え */
-  height: 700px; /* ビューポート全体の高さに設定 */
+  height: 600px; /* ビューポート全体の高さに設定 */
   margin: 0; /* 余白なし */
   background-attachment: fixed; /* 背景固定 */
   width: 100%; /* コンテナの幅 */
